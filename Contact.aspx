@@ -10,11 +10,12 @@
             width: 100%;
         }
     </style>
+    <link href="OurStyle.css" rel="stylesheet" />
 </head>
 <body>
     <form id="form1" runat="server">
     <div>
-    
+    <h1>Contact Page</h1>
         <table class="auto-style1">
             <tr>
                 <td>
